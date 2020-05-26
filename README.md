@@ -14,3 +14,5 @@ Family
 Social activities
 Vediogames
 Tech-news
+reading books
+travelling
