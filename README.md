@@ -1,7 +1,7 @@
 Homework1
 # About me :
 My name is Mohammed Soliman , you also can call me "Moe" , I am a coding student with no limits.
-
+I live in Newton Ma.
 ## Profile :
 https://github.com/Moe081680/about-me
 
@@ -14,3 +14,5 @@ Family
 Social activities
 Vediogames
 Tech-news
+coding
+playing cards
