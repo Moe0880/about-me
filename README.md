@@ -14,6 +14,7 @@ Family
 Social activities
 Vediogames
 Tech-news
-coding
-playing cards
+reading books
+travelling 
 swimming
+playing cards
